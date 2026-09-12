@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+.next/
+
+# Java
+target/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
